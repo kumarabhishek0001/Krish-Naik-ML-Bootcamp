@@ -1,0 +1,8 @@
+hello!! there
+how are you doin?
+It's a lovely night
+this is a log file
+new content will be appended at last
+this is new content
+this will be appended
+

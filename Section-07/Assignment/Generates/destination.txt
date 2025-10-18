@@ -1,0 +1,3 @@
+this is a source file
+get all content from this file
+paste it in a new file

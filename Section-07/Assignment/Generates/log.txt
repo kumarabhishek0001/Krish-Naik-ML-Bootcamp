@@ -1,0 +1,4 @@
+this is a log file
+new content will be appended at last
+this is new content
+this will be appended
