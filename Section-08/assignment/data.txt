@@ -1,0 +1,4 @@
+file to check function
+function tries to read file content
+if file exists 
+else handles the error

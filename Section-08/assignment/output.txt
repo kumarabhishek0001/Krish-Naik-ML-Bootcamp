@@ -1,0 +1,2 @@
+Hello, this is output file
+this is to check function 'write to file'
