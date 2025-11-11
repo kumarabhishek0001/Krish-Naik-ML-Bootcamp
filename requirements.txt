@@ -4,3 +4,4 @@ requests
 panadas
 pandas
 matplotlib
+seaborn
