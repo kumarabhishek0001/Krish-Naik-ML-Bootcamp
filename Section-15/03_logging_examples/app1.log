@@ -1,0 +1,4 @@
+2025-11-13 21:31:49 - ArithmaticApp - DEBUG - adding 10+15 = 25
+2025-11-13 21:31:49 - ArithmaticApp - DEBUG - adding 15-10 = 5
+2025-11-13 21:31:49 - ArithmaticApp - DEBUG - adding 2*10 = 20
+2025-11-13 21:31:49 - ArithmaticApp - ERROR - Division by zero error
