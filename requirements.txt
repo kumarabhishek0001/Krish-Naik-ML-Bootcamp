@@ -5,3 +5,4 @@ panadas
 pandas
 matplotlib
 seaborn
+bs4
